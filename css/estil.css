@@ -1,0 +1,99 @@
+*{
+    position: relative;
+}
+
+
+
+.ulls{
+    overflow: hidden;
+}
+
+.ulldret, .ullesq{
+    width: 70px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.ulldret{
+    float: right;
+    margin-right: 120px;
+}
+
+.ullesq{
+    float: left;
+    margin-left: 120px;
+}
+
+.pupila{
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+    border-radius: 100%;
+    background-color: rgb(60, 40, 0);
+}
+
+.celles {
+    overflow: hidden;
+}
+
+.cellaesq, .celladreta{
+    height: 20px;
+    width: 100px;
+    border-radius: 100% 100% 0% 0%;
+    background-color: rgb(99, 66, 0);
+    z-index: 101;
+}
+
+.cellaesq{
+float: left;
+margin-left: 100px;
+}
+
+.celladreta{
+float: right;
+margin-right: 100px;
+}
+
+.cap{
+    width: 450px;
+    height: 600px;
+    background-color: rgb(255, 200, 138);
+    border-radius: 300px 300px 400px 400px;
+}
+
+.pel{
+    height: 180px;
+    background-color: rgb(144, 96, 0);
+    border-radius: 150px 150px 0px 0px;
+}
+
+.nas{
+    margin-left: -10px;
+    margin-top: -200px;
+    position: relative;
+}
+
+.nas1{
+    width: 40px;
+    height: 50px;
+    background-color: rgb(232, 167, 92);
+    border-radius: 50% 50% 0% 0%;
+    position: absolute;
+    top: 220px;
+    left: 240px;
+}
+
+.nas2{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(232, 167, 92);
+    border-radius: 75% 75% 25% 25%;
+    position: absolute;
+    top: 255px;
+    left: 225px;
+}
+
+.boca{
+
+}
